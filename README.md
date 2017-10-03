@@ -1,2 +1,2 @@
-# news_traverse
+# traverse
 Traverse Popular News Sites
